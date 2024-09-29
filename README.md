@@ -1,3 +1,10 @@
+# Setup Project 
+1. git clone repo
+2. npm i
+3. create .env files in root directory
+4. VITE_CURRENCY_API_KEY="your api key" from currencyfreaks.com
+5. npm run dev or npm run build
+   
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
